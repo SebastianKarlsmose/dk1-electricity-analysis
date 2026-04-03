@@ -24,7 +24,6 @@ I am very excited to work further on this project by implementing regression mod
 - Prices are higher in winter than in summer
 - Clear intraday pattern with peaks in morning and evening
 - Load follows seasonal demand patterns
-- I am looking forward to implement what I will learn from the statistic courses on 2nd semester of Economics at Aarhus University to extend this analysis using egression models
 
 # --- Plots ---
 ![Average Daily Prices](avg_price_daily.png)
