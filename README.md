@@ -1,5 +1,6 @@
 # DK1 Electricity Prices and Load Analysis for 2025
-In this project I aim to analyze electricity prices and load for the Danish DK1 market of 2025. The goal is to clean, align and model the data to show basic intraday as well as seasonal patterns in the market
+In this project, I aim to analyze electricity prices and load for the Danish DK1 market for 2025. The goal is to clean and align the data and identify basic intraday and seasonal patterns in the electricity market. 
+I am very excited to work further on this project by implementing regression models, which is the main topic in the second half of the statistics course on the 2nd semester in Economics at Aarhus University.
 
 # --- Objective ---
 - Clean and align price data to align with load data prior to analysis
