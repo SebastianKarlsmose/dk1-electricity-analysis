@@ -3,7 +3,7 @@
 With this project I aim to clean and align public data from the Danish DK1 market. Furthermore, I try to make a few simple, yet relevant plots showing trends in the electricity market.
 
 # --- Objective ---
-- Clean and align data prior of analysis
+- Clean and align price data to align with load data prior to analysis
 - Examine how electricity prices change over the year 
 - Identify intraday price patterns
 - Compare seasonal variation in prices and load
