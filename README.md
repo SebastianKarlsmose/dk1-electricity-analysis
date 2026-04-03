@@ -27,3 +27,4 @@ With this project I aim to clean and align public data from the Danish DK1 marke
 
 # --- Plots ---
 ![Average Daily Prices](avg_price_daily.png)
+![Average Monthly Prices](avg_price_monthly.png)
