@@ -24,7 +24,7 @@ With this project I aim to clean and align public data from the Danish DK1 marke
 - Prices are higher in winter than in summer
 - Clear intraday pattern with peaks in morning and evening
 - Load follows seasonal demand patterns
-- I am looking forward to implement what I will learn from the statistic courses on 2nd semester of Economics at Aarhus University to make regression analysis on the dataset
+- I am looking forward to implement what I will learn from the statistic courses on 2nd semester of Economics at Aarhus University to extend this analysis using egression models
 
 # --- Plots ---
 ![Average Daily Prices](avg_price_daily.png)
