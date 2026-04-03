@@ -24,3 +24,6 @@ With this project I aim to clean and align public data from the Danish DK1 marke
 - Prices are higher in winter than in summer
 - Clear intraday pattern with peaks in morning and evening
 - Load follows seasonal demand patterns
+
+# --- Plots ---
+![Average Daily Prices](avg_price_daily.png)
